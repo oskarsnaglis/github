@@ -1,1 +1,1 @@
-# github
+Slikts mobilo lietotnu atbalsts
