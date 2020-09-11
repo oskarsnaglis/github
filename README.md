@@ -1,1 +1,1 @@
-Free - 2000 mins/month of GitHub Actions 500 MB/month of GitHub Packages
+Free - 2000 mins_month of GitHub Actions 500 MB_month of GitHub Packages
